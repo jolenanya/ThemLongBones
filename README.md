@@ -1,2 +1,2 @@
 # ThemLongBones
-First GitHub attempt
+This is my very first GitHub attempt... and coding is pretty new to me, so things could be interesting...
